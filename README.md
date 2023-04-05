@@ -11,9 +11,9 @@ As analysts at Walmart we are trying to predict future sales. There are numerous
 
 Implementation :
 
-Data Pre-processing
-Exploratory Data Analysis
-ARIMA/SARIMA to predict future sales
-Regression analysis 
+1) Data Pre-processing
+2) Exploratory Data Analysis
+3) ARIMA/SARIMA to predict future sales
+4) Regression analysis 
 
 Dataset : https://www.kaggle.com/datasets/yasserh/walmart-dataset
