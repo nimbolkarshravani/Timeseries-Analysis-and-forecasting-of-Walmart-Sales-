@@ -1,8 +1,5 @@
 # Timeseries-Analysis-and-forecasting-of-Walmart-Sales-
 
-Project Proposal
-
-
 Course: IND ENG 210 Python for Analytics
 Project Title: Analysis and Prediction of Walmart Sales
 
